@@ -1,0 +1,1 @@
+Little Life World fixed mobile 3D build. Upload index.html to the repository root.
